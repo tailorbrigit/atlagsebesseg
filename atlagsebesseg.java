@@ -30,6 +30,8 @@ public class atlagsebesseg{
 	double atlagsebesseg = ut + ido /2;
 	System.out.print("Test atlagsebessege: : " + atlagsebesseg);
 
+
+
 	
 
 
