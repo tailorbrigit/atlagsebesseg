@@ -1,10 +1,11 @@
 /*
-*File: app.java
-*Author: Szabó Brigi
-*Copyright: 2022, Szabó Brigitta
-*Group: Szoft I/N
-*Date: 2022-02-22
-*Github: github/tailorbrigit
+* File: atlagsebesseg.java
+* Author: Szabó Brigitta
+* Copyright: 2022, Szabó Brigitta
+* Group: Szoft IN
+* Date: 2022-02-22
+* Github: https://github.com/tailorbrigit
+* Licenc: GNU GPL
 */
 
 
